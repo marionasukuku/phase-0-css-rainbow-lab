@@ -9,3 +9,45 @@ div {
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
+div.least{
+  border: 20px solid violet;
+  border-left-color: transparent; 
+  border-right-color: transparent; 
+  border-bottom-color: transparent; 
+}
+div.grand5{
+  border: 20px solid indigo;
+  border-left-color: transparent;
+  border-right-color: transparent; 
+  border-bottom-color: transparent; 
+}
+div.grand4{
+  border: 20px solid blue;
+  border-left-color: transparent; 
+  border-right-color: transparent; 
+  border-bottom-color: transparent; 
+}
+div.grand3{
+  border: 20px solid green;
+  border-left-color: transparent; 
+  border-right-color: transparent; 
+  border-bottom-color: transparent; 
+}
+div.grand2{
+  border: 20px solid yellow;
+  border-left-color: transparent; 
+  border-right-color: transparent; 
+  border-bottom-color: transparent; 
+}
+div.grand1{
+  border: 20px solid orange;
+  border-left-color: transparent; 
+  border-right-color: transparent;  
+  border-bottom-color: transparent; 
+}
+div.grand{
+  border: 20px solid red;
+  border-left-color: transparent; 
+  border-right-color: transparent; 
+  border-bottom-color: transparent; 
+}
